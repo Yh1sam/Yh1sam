@@ -1,8 +1,8 @@
 # About Me:
-Hi there, I’m Sam (Yh1sam)<br> I’m currently learning<br>MVC structure and PHP frameworks<br>Python machine learning<br>Frontend optimization, SEO, and W3C standards<br>Improving my JS, HTML, and CSS skills<br>Cybersecurity... to protect my own websites<br>💪 Experienced in<br>HTML, CSS, PHP, JavaScript<br>Website deployment and maintenance<br>💬 Ask me about<br>Pretty much anything, as long as it’s positive and respectful 🙂<br><br>⚡ Fun fact<br>I earned a karting license at just 15 years old! 🏎️
+Hi there, I’m Sam (Yh1sam)<br> I’m currently learning<br>MVC structure and PHP frameworks<br>Python machine learning<br>Frontend optimization, SEO, and W3C standards<br>Improving my JS, HTML, and CSS skills<br>Cybersecurity... to protect my own websites<br>💪 Experienced in<br>HTML, CSS, PHP, JavaScript<br>Website deployment and maintenance<br>💬 Ask me about<br>Pretty much anything, as long as it’s positive and respectful 🙂<br><br>Other fact<br>I got a driving license at 14 years old, i mean... karting license :)
 
 
-## 🌐 Socials:
+##  🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yh1sam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samyeung0122@gmail.com) 
 
 # 💻 Tech Stack:
