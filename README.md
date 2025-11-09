@@ -1,5 +1,5 @@
 # About Me:
-Hi there, I’m Sam (Yh1sam)<br> I’m currently learning<br>MVC structure and PHP frameworks<br>Python machine learning<br>Frontend optimization, SEO, and W3C standards<br>Improving my JS, HTML, and CSS skills<br>Cybersecurity... to protect my own websites<br>💪 Experienced in<br>HTML, CSS, PHP, JavaScript<br>Website deployment and maintenance<br>💬 Ask me about<br>Pretty much anything, as long as it’s positive and respectful 🙂<br><br>Other fact<br>I got a driving license at 14 years old, i mean... karting license :)
+Hi there, I’m Sam (Yh1sam)<br> I’m currently learning<br>MVC structure and PHP frameworks<br>Python machine learning<br>Frontend optimization, SEO, and W3C standards<br>Improving my JS, HTML, and CSS skills<br>Cybersecurity... to protect my own websites<br>Interested in<br>HTML, CSS, PHP, JavaScript<br>Website deployment and maintenance<br>💬 Ask me about<br>Pretty much anything, as long as it’s positive and respectful 🙂<br><br>Other fact<br>I got a driving license at 14 years old, i mean... karting license :)
 
 
 ##  🌐 Socials:
