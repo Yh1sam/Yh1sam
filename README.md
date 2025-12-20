@@ -1,5 +1,19 @@
 # About Me:
-Hi there, I’m Sam (Yh1sam)<br> I’m currently learning<br>MVC structure and PHP frameworks<br>Python machine learning<br>Frontend optimization, SEO, and W3C standards<br>Improving my JS, HTML, and CSS skills<br>Cybersecurity... to protect my own websites<br>Interested in<br>HTML, CSS, PHP, JavaScript<br>Website deployment and maintenance<br>💬 Ask me about<br>Pretty much anything, as long as it’s positive and respectful 🙂<br><br>Other fact<br>I got a driving license at 14 years old, i mean... karting license :)
+i, I’m YeungHouSam (Yh1sam) —
+a multitasking developer currently leveling up in:
+- MVC and PHP frameworks
+- Python machine learning
+- Frontend optimization, SEO, and W3C wizardry
+- JS / HTML / CSS power‑ups
+- Cybersecurity… mostly so I stop hacking myself
+I’m into everything web: HTML, CSS, PHP, JavaScript, deployment, maintenance — the whole ecosystem.
+💬 Ask me anything positive and respectful. I bite only when debugging.
+Fun fact:
+I got my “driving license” at 14.
+Okay fine… it was a karting license, but still counts for cool points.
+
+If you want it even funnier, more chaotic, or more professional, I can remix it again.
+
 
 
 ##  🌐 Socials:
