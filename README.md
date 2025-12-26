@@ -12,9 +12,6 @@ Fun fact:
 I got my “driving license” at 14.
 Okay fine… it was a karting license, but still counts for cool points.
 
-If you want it even funnier, more chaotic, or more professional, I can remix it again.
-
-
 
 ##  🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yh1sam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samyeung0122@gmail.com) 
