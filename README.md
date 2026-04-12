@@ -1,12 +1,7 @@
 # About Me:
 i, I’m YeungHouSam (Yh1sam) —
-a multitasking developer currently leveling up in:
-- MVC and PHP frameworks
-- Python machine learning
-- Frontend optimization, SEO, and W3C wizardry
-- JS / HTML / CSS power‑ups
-- Cybersecurity… mostly so I stop hacking myself
-I’m into everything web: HTML, CSS, PHP, JavaScript, deployment, maintenance — the whole ecosystem.
+
+I’m into everything web: HTML, CSS, PHP, JavaScript, deployment,blah blah blah
 💬 Ask me anything positive and respectful. I bite only when debugging.
 Fun fact:
 I got my “driving license” at 14.
