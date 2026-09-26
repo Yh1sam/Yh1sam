@@ -1,11 +1,11 @@
 # About Me:
 i, I’m YeungHouSam (Yh1sam) —
 
-I’m into everything web: HTML, CSS, PHP, JavaScript, deployment,blah blah blah
+I’m into everything web,
 Ask me anything positive and respectful. I bite only when debugging.
 Fun fact:
 I got my “driving license” at 14.
-Okay fine… it was a karting license, but still counts for cool points.
+… a karting license actually, but still counts for cool points, I guess.
 
 
 ##   Socials:
